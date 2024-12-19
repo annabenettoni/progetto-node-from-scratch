@@ -11,6 +11,7 @@
   "description": "",
   "workspaces": [
     "backend",
+    "frontend",
     "api-types"
   ],
   "volta": {

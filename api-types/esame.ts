@@ -1,5 +1,5 @@
 export type Esame = {
-    "_id": string;
+    "_id"?: string;
     "studente": string;
     "materie": Materia[];
 }
